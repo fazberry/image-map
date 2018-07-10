@@ -25,3 +25,5 @@ mogrify -quality "90%" -interlace Plane -strip *.jpg
 ```
 
 
+See here for live demo https://deadcannons.com/
+
